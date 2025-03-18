@@ -88,7 +88,7 @@ python infer_demo.py \
 
 ## Citation
 ```
-@inproceedings{liao2024doclayllm,
+@inproceedings{liao2025doclayllm,
   title={Doc{L}ay{LLM}: An Efficient and Effective Multi-modal Extension of Large Language Models for Text-rich Document Understanding},
   author={Liao, Wenhui and Wang, Jiapeng and Li, Hongliang and Wang, Chengyu and Huang, Jun and Jin, Lianwen},
   booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
