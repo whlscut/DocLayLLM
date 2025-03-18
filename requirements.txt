@@ -1,0 +1,2 @@
+transformers==4.41.2
+flash-attn==2.5.9.post1
