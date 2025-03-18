@@ -16,7 +16,7 @@
 
 ## 📅 News
 - **2025.03.19**: Our repository is public! 👏🤗
-- **2025.02.07**: 🎉🎉 Our [paper](https://arxiv.org/abs/2408.15045) is accepted by CVPR2025.   
+- **2025.02.27**: 🎉🎉 Our [paper](https://arxiv.org/abs/2408.15045) is accepted by CVPR2025.   
 
 ## 🔥 Model Zoo
 | **Model**                                    | **chekcpoint** | **status** |
