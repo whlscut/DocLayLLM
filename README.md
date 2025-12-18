@@ -22,10 +22,11 @@
 | **Model**                                    | **chekcpoint** | **status** |
 |----------------------------------------------|----------------|------------|
 | **DocLayLLM_zero_shot**                              | [huggingface](https://huggingface.co/liaowenhui/DocLayLLM_zero_shot) | Released  |
+| **DocLayLLM_sft**                              | [huggingface](https://huggingface.co/liaowenhui/DocLayLLM_sft) | Released  |
 
 ## 🚧 TODO List
 - [x] Release DocLayLLM_zero_shot weights
-- [ ] Release DocLayLLM_sft weights
+- [x] Release DocLayLLM_sft weights
 - [ ] Release sft codes
 
 ## 🛠️ Installation
